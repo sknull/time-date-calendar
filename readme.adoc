@@ -1,0 +1,18 @@
+= time-date-calendar
+:doctype: article
+:description: Project Documentation for time-date-calendar
+:keywords: kotlin, full moon
+:icons: font
+:toc:
+:toc-title: Contents
+:toclevels:10
+
+== Overview
+
+This project represent an alternative method for calculating the easter sunday of a year not utilizing the epact approach as described here https://en.wikipedia.org/wiki/Date_of_Easter.
+
+Here I use a table containing the first full moon of a year, the previous full moon and the next full moon for the 19 golden numbers.
+
+This method was used back in a high school project and I cannot remember anymore where we found this method 30 years ago.
+
+Just for fun now implemented in Kotlin.
